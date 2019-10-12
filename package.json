@@ -1,0 +1,12 @@
+{
+  "name": "css2lit",
+  "version": "1.0.0",
+  "description": "Converts css file to a lit-element css export",
+  "bin": {
+    "css2lit": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "replace-in-file": "^4.1.3"
+  }
+}
