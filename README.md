@@ -5,7 +5,7 @@ Executable that converts css file to a lit-element css export
 ## Instalation
 
   ```bash
-  $ npm install particles.ts
+  $ npm install css2lit
   ```
 
 ## Usage
